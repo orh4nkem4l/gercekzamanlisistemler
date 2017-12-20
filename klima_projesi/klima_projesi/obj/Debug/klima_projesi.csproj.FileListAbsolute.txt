@@ -1,0 +1,12 @@
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\bin\Debug\klima_projesi.exe
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\bin\Debug\klima_projesi.pdb
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\obj\Debug\klima_projesi.csprojResolveAssemblyReference.cache
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\obj\Debug\klima_projesi.Form1.resources
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\obj\Debug\klima_projesi.Properties.Resources.resources
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\obj\Debug\klima_projesi.csproj.GenerateResource.Cache
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\obj\Debug\klima_projesi.csproj.CoreCompileInputs.cache
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\obj\Debug\klima_projesi.exe
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\obj\Debug\klima_projesi.pdb
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\bin\Debug\MySql.Data.dll
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\bin\Debug\MySql.Data.xml
+C:\Users\ii\source\repos\klima_projesi\klima_projesi\obj\Debug\klima_projesi.Form2.resources
